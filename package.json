@@ -1,8 +1,8 @@
 {
-  "name": "homebridge-tutorial",
+  "name": "homebridge-minidsp-shd-control",
   "version": "0.0.1",
-  "description": "Description for Homebridge Tutorial",
-  "license": "the most strict license",
+  "description": "Adjust MiniDSP Volume + Inputs",
+  "license": "MIT",
   "keywords": [
     "homebridge-plugin"
   ],
